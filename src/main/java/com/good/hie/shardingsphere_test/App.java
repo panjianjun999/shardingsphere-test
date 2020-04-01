@@ -12,7 +12,7 @@ public class App
 {
     public static void main( String[] args )
     {
-        System.out.println( "shardingsphere_test : Hello World!" );
+        System.out.println( "shardingsphere_test : Hello World!---20200401" );
         
         try {
 			Manager.test();

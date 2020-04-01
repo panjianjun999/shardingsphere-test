@@ -82,8 +82,8 @@ public class Manager {
 //      testDelete(dataSource,"tbHero",1571912886468L);
       
       //测试更新
-      testUpdate(dataSource,"tbPlayer",1571912886465L);
-      testUpdate(dataSource,"tbHero",1571912886479L);
+//      testUpdate(dataSource,"tbPlayer",1571912886465L);
+//      testUpdate(dataSource,"tbHero",1571912886479L);
     }
     
     private static void testUpdate(DataSource dataSource,String tableName,long key) throws SQLException {
